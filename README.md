@@ -1,1 +1,0 @@
-# Photowale.github.io
