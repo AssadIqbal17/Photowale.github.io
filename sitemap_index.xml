@@ -20,6 +20,5 @@
 <url><loc>http://photowale.cf/wedding visuals.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
 <url><loc>http://photowale.cf/aamna.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
 </urlset>
-
 gems:
   - jekyll-sitemap
