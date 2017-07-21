@@ -98,5 +98,8 @@
     <changefreq>hourly</changefreq>
   </url>
 </urlset>
+gems:
+  - jekyll-sitemap
+
 <!--<guid value="574ea27a-371f-4890-aec6-59ce29a1a1a1" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
